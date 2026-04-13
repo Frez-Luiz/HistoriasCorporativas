@@ -9,8 +9,12 @@ body{
 
 }
 
-h2{
+h1{
     text-align: center;
+    font-size: 30px;
+}
+h2{
+    text-align: left;
     color: rgb(0, 117, 133);
     font-size: 30px;
 }
