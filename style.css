@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(197, 229, 255);
     line-height: 1.5;
     font-family: sans-serif;
@@ -9,12 +9,42 @@ body{
 
 }
 
-h1{
+
+
+h1 {
     text-align: center;
     font-size: 30px;
 }
-h2{
+
+h2 {
     text-align: left;
     color: rgb(0, 117, 133);
     font-size: 30px;
+}
+
+button {
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(197, 229, 255);
+
+    display: block;
+    margin: auto;
+}
+
+button a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 65%;
+
+}
+
+header{
+    padding-top: 2em;
 }
